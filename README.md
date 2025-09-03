@@ -1,6 +1,12 @@
 # Hi, I'm Tariq  
 
-![Description of GIF](https://github.com/Tariq9096/Tariq9096/blob/3dee63834a1d6315a66316d5c1ec8a593f180d06/fetchpik.com-URdyX3KMwb.gif)
+<p align="center">
+  <img 
+    src="https://github.com/Tariq9096/Tariq9096/blob/3dee63834a1d6315a66316d5c1ec8a593f180d06/fetchpik.com-URdyX3KMwb.gif" 
+    alt="Description of GIF" 
+    width="600" 
+  />
+</p>
 
 🎓 Undergraduate student at BRAC University (EEE)  
 💻 Exploring **Computer Science, Electronics, and Software Development**  
