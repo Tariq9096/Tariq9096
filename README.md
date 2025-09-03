@@ -26,12 +26,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
 </p>
 
- ![Description of GIF](https://github.com/Tariq9096/Tariq9096/blob/4a75bbf867b161d46f2d04cf27ff605f96029b7d/fetchpik.com-Q27uS35w8f.gif)
+<p align="right">
+  <img src="https://github.com/Tariq9096/Tariq9096/blob/4a75bbf867b161d46f2d04cf27ff605f96029b7d/fetchpik.com-Q27uS35w8f.gif" alt="Description of GIF" />
+</p>
+
 - Programming: C, Python, Java (learning)  <br>
-- Electronics: Arduino, Circuit Design
--
- ![Description of GIF](https://github.com/Tariq9096/Tariq9096/blob/4a75bbf867b161d46f2d04cf27ff605f96029b7d/fetchpik.com-Q27uS35w8f.gif)
--   <br>
+- Electronics: Arduino, Circuit Design <br>
 - Tools: Git, GitHub, VS Code 
 
  ![Description of GIF](https://github.com/Tariq9096/Tariq9096/blob/4a75bbf867b161d46f2d04cf27ff605f96029b7d/fetchpik.com-Q27uS35w8f.gif)
