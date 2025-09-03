@@ -44,6 +44,5 @@
 
 ## Contact
 - LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/tariq-ahmed9096)  
-- Email: tariq.ahmed9096@gmail.com <br>
-
-<img src="https://raw.githubusercontent.com/Tariq9096/snake.yml/output/github-contribution-grid-snake.gif" alt="snake" />
+- Email: tariq.ahmed9096@gmail.com 
+![GitHub Snake](https://github.com/Tariq9096/Tariq9096/blob/output/github-contribution-grid-snake.svg)
