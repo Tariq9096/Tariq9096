@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
 </p>
-- Programming: C, Python, Java (learning)  <br>
+- Programming: C, Python, Java (learning)  <br https://github.com/Tariq9096/Tariq9096/blob/4a75bbf867b161d46f2d04cf27ff605f96029b7d/fetchpik.com-Q27uS35w8f.gif>
 - Electronics: Arduino, Circuit Design  <br>
 - Tools: Git, GitHub, VS Code 
 
