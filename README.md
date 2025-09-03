@@ -45,4 +45,4 @@
 ## Contact
 - LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/tariq-ahmed9096)  
 - Email: tariq.ahmed9096@gmail.com 
-![GitHub Snake](https://github.com/Tariq9096/Tariq9096/tree/c94871faa1acae7773693cf12e4ff0f53f7a57cc/.github/workflows)
+<img src="https://raw.githubusercontent.com/Tariq9096/snake.yml/main/github-contribution-grid-snake.gif" alt="snake" />
