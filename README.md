@@ -6,7 +6,7 @@
 💻 Exploring **Computer Science, Electronics, and Software Development**  
 🚀 Interested in **Embedded Systems, Arduino, and Programming**  
 📚 Currently learning: C, Python, Java  
-https://tenor.com/8BHDUYHMt6.gif
+
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tariq9096&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -29,6 +29,7 @@ https://tenor.com/8BHDUYHMt6.gif
 - Electronics: Arduino, Circuit Design  
 - Tools: Git, GitHub, VS Code  
 
+![Description of GIF] (https://github.com/Tariq9096/Tariq9096/blob/eed862c7ad2c4ccadeacbeef4e7b7de039cf1c9b/fetchpik.com-vnz52he9pA.gif)
 ---
 
 ## Featured Projects
