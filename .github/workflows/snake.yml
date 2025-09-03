@@ -11,23 +11,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout repo with token
+      # 1️⃣ Checkout repo (disable default credentials)
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: false  # We'll provide our own token
+          persist-credentials: false  # Required for custom token push
 
-      # 2️⃣ Set up Git
-      - name: Configure Git
+      # 2️⃣ Configure Git user
+      - name: Set Git user
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      # 3️⃣ Example: Create/update a file
-      - name: Make changes
-        run: echo "Update $(date)" >> auto_update.txt
+      # 3️⃣ Make your changes
+      - name: Update file
+        run: echo "Updated on $(date)" >> auto_update.txt
 
-      # 4️⃣ Commit & push using token
+      # 4️⃣ Commit & push using GITHUB_TOKEN
       - name: Commit and push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
