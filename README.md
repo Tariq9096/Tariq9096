@@ -28,8 +28,9 @@
 - Programming: C, Python, Java (learning)  <br>
 - Electronics: Arduino, Circuit Design  <br>
 - Tools: Git, GitHub, VS Code 
+
 ![Description of GIF](https://github.com/Tariq9096/Tariq9096/blob/eed862c7ad2c4ccadeacbeef4e7b7de039cf1c9b/fetchpik.com-vnz52he9pA.gif)
----
+
 
 ## Featured Projects
 - [CS50 Projects](https://github.com/tariq9096/CS50) – Problem sets and final project
@@ -45,4 +46,4 @@
 - LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/tariq-ahmed9096)  
 - Email: tariq.ahmed9096@gmail.com <br>
 
-<img src="https://raw.githubusercontent.com/Tariq9096/<REPO_NAME>/output/github-contribution-grid-snake.gif" alt="snake" />
+<img src="https://raw.githubusercontent.com/Tariq9096/snake.yml/output/github-contribution-grid-snake.gif" alt="snake" />
