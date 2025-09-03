@@ -46,3 +46,8 @@
 ## Contact
 - LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/tariq-ahmed9096)  
 - Email: tariq.ahmed9096@gmail.com
+<div align="center">
+  <a href="https://open.spotify.com/user/https://open.spotify.com/user/31gfhgkoylhemn2fzhni45khudyu?si=9gUzZ6gURkWPvLn5neEYuQ">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/31gfhgkoylhemn2fzhni45khudyu?si=9gUzZ6gURkWPvLn5neEYuQ&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
