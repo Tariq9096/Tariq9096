@@ -27,13 +27,14 @@
 </p>
 
 - Programming: C, Python, Java (learning) <br>
-- Electronics: Arduino, Circuit Design <br> <p align="right">
-  <img src="https://github.com/Tariq9096/Tariq9096/blob/4a75bbf867b161d46f2d04cf27ff605f96029b7d/fetchpik.com-Q27uS35w8f.gif" alt="Description of GIF" />
-</p>
+- Electronics: Arduino, Circuit Design <br> 
 - Tools: Git, GitHub, VS Code 
 
 ![Description of GIF](https://github.com/Tariq9096/Tariq9096/blob/eed862c7ad2c4ccadeacbeef4e7b7de039cf1c9b/fetchpik.com-vnz52he9pA.gif)
 
+<p align="left">
+  <img src="https://github.com/Tariq9096/Tariq9096/blob/4a75bbf867b161d46f2d04cf27ff605f96029b7d/fetchpik.com-Q27uS35w8f.gif" alt="Description of GIF" width="400" />
+</p>
 
 ## Featured Projects
 - [CS50 Projects](https://github.com/tariq9096/CS50) – Problem sets and final project
