@@ -29,7 +29,7 @@
 - Electronics: Arduino, Circuit Design  
 - Tools: Git, GitHub, VS Code  
 
-![Description of GIF] (https://github.com/Tariq9096/Tariq9096/blob/eed862c7ad2c4ccadeacbeef4e7b7de039cf1c9b/fetchpik.com-vnz52he9pA.gif)
+![Description of GIF](https://github.com/Tariq9096/Tariq9096/blob/eed862c7ad2c4ccadeacbeef4e7b7de039cf1c9b/fetchpik.com-vnz52he9pA.gif)
 ---
 
 ## Featured Projects
