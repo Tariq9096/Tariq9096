@@ -60,4 +60,10 @@
 - LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/tariq-ahmed9096)
 - Email: tariq.ahmed9096@gmail.com
 
-- ![snake](https://raw.githubusercontent.com/Tariq9096/snake.yml/main/github-contribution-grid-snake.gif)
+<p align="center">
+  <img 
+    src="https://github.com/Tariq9096/Tariq9096/blob/fb189431ea545f8a8719b9d38fe1ad5abcbd2038/fetchpik.com-EK0HcpTk9O.gif" 
+    alt="Description of GIF" 
+    width="600" 
+  />
+</p>
