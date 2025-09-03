@@ -10,17 +10,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Checkout the repo
       - uses: actions/checkout@v2
 
-      # Generate the snake files in the dist folder
-      - uses: Platane/snk@master
+      # 2️⃣ Generate snake files
+      - name: Generate snake
+        uses: Platane/snk@master
         with:
           github_user_name: Tariq9096
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
 
-      # Push dist folder to output branch
+      # 3️⃣ Debug: List files
+      - name: Check files
+        run: |
+          echo "Listing all files in workspace:"
+          ls -R
+
+      # 4️⃣ Create dist folder if missing
+      - name: Ensure dist exists
+        run: mkdir -p dist
+
+      # 5️⃣ Deploy to output branch
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
