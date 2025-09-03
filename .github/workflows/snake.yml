@@ -3,34 +3,35 @@ name: Auto Push Changes
 on:
   push:
     branches:
-      - main   # Trigger on pushes to main branch
-  workflow_dispatch:  # Allows manual trigger
+      - main
+  workflow_dispatch:
 
 jobs:
   push-changes:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout the repo
+      # 1️⃣ Checkout repo with token
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: false  # We'll use our token
+          persist-credentials: false  # We'll provide our own token
 
-      # 2️⃣ Set up Git user
-      - name: Set Git user
+      # 2️⃣ Set up Git
+      - name: Configure Git
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      # 3️⃣ Make changes (example: touch a file)
-      - name: Example change
-        run: |
-          echo "Update $(date)" >> auto_update.txt
+      # 3️⃣ Example: Create/update a file
+      - name: Make changes
+        run: echo "Update $(date)" >> auto_update.txt
 
-      # 4️⃣ Commit and push changes
+      # 4️⃣ Commit & push using token
       - name: Commit and push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git add .
           git commit -m "Automated commit from Actions" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
