@@ -1,5 +1,6 @@
 # Hi, I'm Tariq  to the highest.
 ![image alt] (https://github.com/Tariq9096/Tariq9096/blob/3314f2b124f399cb807c70ddf53d30961451b4fb/fetchpik.com-oNSu3ELq6C.gif)
+
 🎓 Undergraduate student at BRAC University (EEE)  
 💻 Exploring **Computer Science, Electronics, and Software Development**  
 🚀 Interested in **Embedded Systems, Arduino, and Programming**  
