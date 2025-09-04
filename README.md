@@ -68,4 +68,4 @@
   />
 </p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Tariq9096/Tariq9096/blob/114187c49b456558486ee4ad4474e931e8291351/snake.svg" alt="Snake animation" />
